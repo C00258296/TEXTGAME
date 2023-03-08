@@ -777,7 +777,7 @@ MEAL3           DC.B    ' 3) Fish and broccoli' ,0
 OCCUPIEDMSG     DC.B    ' 1)Thanks very much! ' ,0
 RUDEMSG         DC.B    ' 2)Please dont waste my time, thanks  ',0
 LAND            DC.B    ' 1) I am from a distant land, far from here.',0
-LAND2           DC.B    ' 2) I don’t even know how I arrive here !! ',0
+LAND2           DC.B    ' 2) I donÂ’t even know how I arrive hereÂ !! ',0
 HAPPY_MSG       DC.B    ' 1) Iam happy to meet you ',0
 RUDE            DC.B    ' 2)I simply worry about finishing my work; I don t care about your names.',0
 ATTACK          DC.B    ' 1) Attack with the sword ',0
@@ -793,7 +793,8 @@ RED	EQU	$000000FF
 WHITE	EQU	$00FFFFFF
 
 
-;BACKGROUND MUSIC
+
+
 
 
     END    START        ; last line of source
