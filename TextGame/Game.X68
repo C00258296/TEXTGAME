@@ -635,7 +635,7 @@ WHITEXT
 	RTS
 
 
-
+;HISTORY MESSAGES
 crlf	DC.B	$d,$a,0
 WELCOME_MSG:    DC.B    '************************************************************'
                 DC.B    $0D,$0A
